@@ -1,0 +1,4 @@
+fractals
+========
+
+Fractal generation software
